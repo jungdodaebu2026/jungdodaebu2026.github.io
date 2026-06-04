@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://jungdodaebu2026.github.io/sitemap.xml
